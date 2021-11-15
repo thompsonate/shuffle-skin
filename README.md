@@ -1,6 +1,6 @@
-# shuffle-skin
+# shuffle skin
 
-A SwiftUI rendering of the 4th generation iPod shuffle
+A SwiftUI rendering of the 4th-generation iPod shuffle
 
 <p float="left">
     <img src="screenshots/silver.png" width=13%/>
