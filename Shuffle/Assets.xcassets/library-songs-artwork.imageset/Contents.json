@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "library-songs-artwork.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
